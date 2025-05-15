@@ -26,19 +26,7 @@ This repository contains the scripts, data, and report for the XAI3_EDM task, fo
 The full analysis and interpretation of the PDPs can be found in the XAI3_Report.docx file in the reports directory.
 
 ## 📂 Data Sources
-Bike Rental Data: UCI Machine Learning Repository
+**Bike Rental Data:**** UCI Machine Learning Repository
 
-House Price Data: Kaggle - King County House Sales
+****House Price Data:**** Kaggle - King County House Sales
 
-## 🛠️ Future Improvements
-Adding SHAP or ALE plots for a more nuanced interpretation.
-
-Exploring multi-dimensional PDPs.
-
-Creating a web dashboard for interactive PDP exploration.
-
-## 🤝 Contributing
-Feel free to open issues or pull requests if you find bugs or have suggestions for improvement.
-
-## 📄 License
-This project is licensed under the MIT License.
