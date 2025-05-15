@@ -22,7 +22,7 @@ This repository contains the scripts, data, and report for the XAI3_EDM task, fo
    git clone https://github.com/lumixcb/XAI3_EDM.git
    cd XAI3_EDM
 
-##📝 Report
+## 📝 Report
 The full analysis and interpretation of the PDPs can be found in the XAI3_Report.docx file in the reports directory.
 
 ## 📂 Data Sources
