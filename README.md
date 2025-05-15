@@ -1,20 +1,6 @@
 # XAI3_EDM
 Práctica de XAI para gráficos de dependencia parcial (PDP) para alquiler de bicicletas y precios de casas
 
-XAI3_EDM/
-│
-├── data/
-│ ├── day.csv
-│ ├── hour.csv
-│ └── kc_house_data.csv
-│
-├── scripts/
-│ ├── bike_rental_pdp.R
-│ └── house_price_pdp.R
-│
-├── .gitignore
-└── README.md
-
 ## 📂 Descripción de las carpetas
 
 - **data/**: Contiene los archivos de datos (`day.csv`, `hour.csv`, `kc_house_data.csv`).
